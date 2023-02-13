@@ -2,7 +2,7 @@
 <p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
 ## Bootsrap Responsive Multi-Vendor, MultiLanguage Online Shop Platform
-
+Cancel changes
 Current versions:
 
 * Codeigniter 3.1.13 (CodeIgniter Foundation)
@@ -48,48 +48,6 @@ Current versions:
 ## Easy installation in 2 steps
 1. Import database.sql to your MySQL database
 2. Set <b>database</b>, <b>username</b> and <b>password</b> in application/config/database.php
-
-## Available Languages
-- ![CodeIgniter Ecommerce English](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/en.jpg "English Translation CodeIgniter") English
-- ![CodeIgniter Ecommerce Greece](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/gr.png "Greece Translation CodeIgniter") Greece
-- ![CodeIgniter Ecommerce Bulgarian](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/bg.jpg "Bulgarian Translation CodeIgniter") Bulgarian
-- ![CodeIgniter Ecommerce Indonesian](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/id.jpg "Indonesian Translation CodeIgniter") Indonesian
-
-## Login to administration with
-- Administration url - /admin (eg. https://yourwebsite.com/admin)
-- Username: admin 
-- Password: admin
-
-## Vendors support
-- Login url is - /vendor/login (eg. https://yourwebsite.com/vendor/login)
-- Vendors are not supported only from "onepage" template.
-- Can register new vendor from url - /vendor/register.  (eg. https://yourwebsite.com/vendor/register)
-- Vendors must be enabled from administration - /admin (eg. https://yourwebsite.com/admin/settings) Settings -> Multi-Vendor Support (panel).
-
-## Users registration
-<p>Users /registration/login (https://yourwebsite.com/registration/login) is added only in <b>greenlabel template</b>. (easily can be added to any other template, just copy files: login.php, signup.php, user.php to the new template directory (application/views/templates) and change your design).</p>
-<b>Users can track their orders history only.</b>
-
-## Screenshots of public pages
-![MultiLanguage CodeIgniter Template Ecommerce](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/templates.png "Multiple Templates")
-
-## Screenshots of vendors pages
-![MultiVendor CodeIgniter Template Ecommerce](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/vendors_pages.jpg "Vendors Page Preview")
-
-## Screenshot of admin panel
-![CodeIgniter Administration Bootstrap](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Powerful Administration CodeIgniter")
-
-### How To Write Templates
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
-
-### Shopping cart peculiarities
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
-
-### Multi Vendor Support
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Multi-Vendor-Support
-
-### API Documentation
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/API
 
 ### Server Requirements
 - PHP version 5.6 or newer is recommended.
